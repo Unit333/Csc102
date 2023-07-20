@@ -1,0 +1,14 @@
+<!DOCTYPE html> <!-- Doctype declaration -->
+
+<html> <!-- HTML open tag -->
+<head> <!-- Head open tag -->
+    <title>Page Title</title> <!-- Title open/close tags and Title text -->
+</head> <!-- Head close tag -->
+
+<body> <!-- Body open tag -->
+    <header> <!-- Header open tag -->
+        <h1>Header Text</h1> <!-- Header text -->
+    </header> <!-- Header close tag -->
+
+    <img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg" 
+     alt="cannot sleep"> 
